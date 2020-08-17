@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DBUtil {
-//123123
+//123123123
 	public static Connection getConnection() {
 		Connection connection = null;
 		try {
